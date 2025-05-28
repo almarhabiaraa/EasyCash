@@ -1,6 +1,6 @@
 # 💳 EasyCash: JavaFX ATM Application
 
-**Course:** Object-Oriented Programming (OOP)  
+**Course:** CS2132 Object-Oriented Programming (OOP)  
 **Language:** Java (JavaFX)  
 **Team Members:** Araa, Sarah, Sahar   
 
@@ -24,7 +24,8 @@ repository/
 ├── ATM.ctxt         # Context/config file (BlueJ)
 ├── ATM.java         # Main Java source file
 ├── package.bluej    # Package info for BlueJ
-└── README.TXT       # Project documentation
+├── README.TXT       # Project documentation
+└── Project_Report.pdf       
 
 ```
 
